@@ -9,5 +9,7 @@
 
 数据的导入与导出：data_in/output.R
 
+变量操作：varianbles_operation.R
+（对数化处理，对某/每一行计算，apply函数，排序sort，自定义函数function）
 
 ### 我还在准备自己的仓库中，尽情期待吧
