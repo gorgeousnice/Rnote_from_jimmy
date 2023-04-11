@@ -4,6 +4,9 @@
 一些代码运行需要数据，我都整理在Data_folder里了
 
 ## 代码对应知识点
+基础操作：basic_operation.R
+（基础代码、工具栏、快捷键）
+
 数据的导入与导出：data_in/output.R
 
 
