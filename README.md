@@ -1,5 +1,5 @@
 # 生科人应该这样学R
-来自大三生物科学专业的科研小白，根跟着b站jimmy大神的视频总结的一些关于r语言的学习笔记
+来自大三生物科学专业的科研小白，根跟着b站jimmy大神的视频(https://www.bilibili.com/video/BV1cs411j75B)总结的一些关于r语言的学习笔记;
 
 你可以下载我的代码，在你的R Studio里面运行。里面有很多我自己的思考，基本上每条代码都有很详细的注释
 
@@ -51,4 +51,3 @@ Chip_matrix_downstream_analysis.R
 ### RNA-Seq差异表达分析
 RNA-Seq_differ_express_analy.R
 
-### 我还在准备自己的仓库中，尽情期待吧
